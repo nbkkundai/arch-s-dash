@@ -1,0 +1,8 @@
+{
+    "Dev": true,
+    "Admin": true,
+    "Status": true,
+    "Upload": true,
+    "Client": true,
+    "Project": true
+}
